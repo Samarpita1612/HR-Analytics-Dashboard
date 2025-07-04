@@ -30,4 +30,4 @@ ________________________________________
 • Boosted employee experience and satisfaction through targeted interventions
 • Helped HR teams foster trust and create a more productive, stable workforce
 ________________________________________
-6. Screenshot of the project: link:[]
+6. Screenshot of the project: link:[https://github.com/Samarpita1612/HR-Analytics-Dashboard/blob/main/HRAnalyticsDashboardSnapshot.png]
